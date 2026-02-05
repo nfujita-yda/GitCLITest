@@ -7,3 +7,5 @@ abcde
 あいうえお
 
 XXXXXXXX
+
+YDA GAME
